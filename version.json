@@ -1,11 +1,9 @@
 {
   "latest_version": "1.0.0",
-  "download_url": "https://github.com/ylzjj1314-tech/Power-Timer/releases/download/v1.0.0/Power-Timer_v1.0.0_win64.zip",
+  "download_url": "https://github.com/ylzjj1314-tech/Power-Timer/releases/download/v1.0.0/PowerTimerInstaller_v1.0.0.exe",
   "release_notes": [
-    "首次发布",
-    "响应式UI",
-    "6位密码验证",
-    "支持修改密码",
-    "支持自动更新"
+    "安装包版本",
+    "优化图标",
+    "修复问题"
   ]
 }
